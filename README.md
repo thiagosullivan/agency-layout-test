@@ -1,5 +1,4 @@
-### Updated personal portfolio page - <a href="https://juliacodes.com">Juliacodes.com</a>
+### Layout By Julia Code
 
-Built by Julia Johnson using: React, Gatsby, Styled Components & Netlify
+Built using: React, Gatsby, Styled Components & Netlify
 
-![Image of Julia Codes Landing Page](https://raw.githubusercontent.com/juliajohnson18/JuliaCodesGatsby/master/juliacodesimg.png)
